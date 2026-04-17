@@ -1,3 +1,4 @@
+[![AI Code Assurance](https://dev18.sc-dev18.io/api/project_badges/ai_code_assurance?project=OrlovAlexander85_andfun-kotlin-sleep-tracker-with-recyclerview)](https://dev18.sc-dev18.io/summary/new_code?id=OrlovAlexander85_andfun-kotlin-sleep-tracker-with-recyclerview)
 # RecyclerView - SleepQualityTracker with RecyclerView app
 
 This is the toy app for Lesson 7 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/).
